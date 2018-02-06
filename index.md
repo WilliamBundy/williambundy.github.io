@@ -1,8 +1,10 @@
 ---
 layout: post
-title: "Resume"
+title: "Portfolio"
 date:   2018-02-01 09:42:44 -0800
 ---
+
+[Download resume version as .pdf]({{ "assets/williambundy_resume.pdf" | absolute_url }})
 
 ## Game Projects
 
