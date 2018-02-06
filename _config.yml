@@ -17,7 +17,7 @@ title: William Bundy
 email: william.tc.bundy@gmail.com
 description: Jeez I hope this is configured correctly
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+url: "williambundy.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: William_Bundy
 github_username:  WilliamBundy
 
