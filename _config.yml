@@ -23,7 +23,7 @@ github_username:  WilliamBundy
 
 # Build settings
 markdown: kramdown
-theme: jekyll-theme-midnight
+theme: Minima
 plugins:
   - jekyll-feed
   - github-pages
